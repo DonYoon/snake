@@ -20,9 +20,7 @@ To set up and run the game locally, follow these steps:
 
 1. **Clone the repository**:
 
-    git clone https://github.com/your-username/snake.git
-
-    Replace `your-username` with your GitHub username.
+    git clone https://github.com/DonYoon/snake.git
 
 2. **Change to the project directory**:
 
